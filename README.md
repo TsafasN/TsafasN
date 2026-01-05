@@ -1,13 +1,15 @@
 # Hi, I'm Nick Tsafas
 
-**Senior Embedded Software Engineer** based in Athens 🇬🇷, passionate about **Development, Systems, Operations, Automation**, and making things tick down to the last clock cycle.
+**Senior Embedded Software Engineer** based in Athens, focused on developing reliable, performance-driven embedded systems bridging hardware and software. 
 
-## 👨‍💻 About Me
+Passionate about **Development, Systems, Operations, Automation**, and making things tick down to the last clock cycle.
 
-🎯 Focused on **low-level programming**, **driver development**, and **real-time systems**.  
-📑 Experienced in **requirements elicitation**: including the analysis of functional and non-functional requirements, use cases, **process models**, and **impact assessments**.  
-🛠️ Dedicated to **improving developer productivity**: crafting better tooling, writing clear documentation, performing thoughtful refactoring, and designing developer-friendly workflows.  
-✅ Committed to sound engineering practices and sustainable software processes.  
+## About Me
+
+- Focused on **low-level programming**, **driver development**, and **real-time systems**.  
+- Experienced in **requirements elicitation**: including the analysis of functional and non-functional requirements, use cases, **process models**, and **impact assessments**.  
+- Dedicated to **improving developer productivity**: crafting better tooling, writing clear documentation, performing thoughtful refactoring, and designing developer-friendly workflows.  
+- Committed to sound engineering practices and sustainable software processes.  
 
 ## 💼 Work Experience
 
@@ -22,21 +24,35 @@
 
 ## 🎓 Education
 
-🎓 Integrated Hardware and Software Systems: [University of Patras](https://www.ceid.upatras.gr/en/home/) (2017–2020): Master's degree  
-🎓 Electrical and Computer Engineering: [University of Patras](https://www.ece.upatras.gr/index.php/en/) (2012–2017): Diploma (Integrated Bachelor and Master degree) 
+🎓 M.Sc. in Integrated Hardware and Software Systems: [University of Patras](https://www.ceid.upatras.gr/en/home/) (2017–2020)  
+🎓 Diploma (Integrated Bachelor and Master degree) in Electrical and Computer Engineering: [University of Patras](https://www.ece.upatras.gr/index.php/en/) (2012–2017)
 
-## 🛠️ Tools & Technologies
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools & Technologies 🛠️</h2></summary>
+  </ul>
+</div>
 
-🛠️ Tools: VSCode, Docker, GitLab CI, Bash, TRACE32, QEMU, Rust, Static analysis, Fault injection scripts, Agile methodologies  
-🤓 Also exploring: Blockchain smart contracts
+<img src="https://skillicons.dev/icons?i=git,c,docker,rust,bash,github,gitlab,linux,cpp,md,postman,matlab,python,vscode&perline=9" />
 
-## 🔧 Featured Projects
+Additional Tools: TRACE32, QEMU, Static analysis, Fault injection scripts, Agile methodologies, Requirements elicitation  
+Also exploring: Blockchain smart contracts
 
-### 🛠️ [Cortex M3 Development Template](https://github.com/TsafasN/m3dev)
-> 📦 A reproducible starting point for embedded projects. Featuring docker image and devcontainer setup - with dependency management. Showcasing build system and testing capabilities.
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-### 🐧 [rpi-ci-runner-setup](https://github.com/TsafasN/rpi-ci-runner-setup)
-> 📦 Automatic deployment of a GitLab CI Runner on a Raspberry Pi — ready for lightweight CI/CD tasks.
-
-### 🧪 [Open Cortex-M Unit Testing Framework](https://github.com/TsafasN/Open-MCU-Test-Runner)
-> Automated modular framework for Cortex-M microcontroller unit testing with QEMU and GoogleTest, built for embedded devs.
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/ntsafas/" 
+target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
+alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:ntsafas@gmail.com" 
+target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
+alt="gmail" height="50" width="50" /></a>
+</p>
