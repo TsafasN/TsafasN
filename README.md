@@ -4,42 +4,32 @@
 
 Passionate about **Development, Systems, Operations, Automation**, and making things tick down to the last clock cycle.
 
-## About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 - Focused on **low-level programming**, **driver development**, and **real-time systems**.  
 - Experienced in **requirements elicitation**: including the analysis of functional and non-functional requirements, use cases, **process models**, and **impact assessments**.  
 - Dedicated to **improving developer productivity**: crafting better tooling, writing clear documentation, performing thoughtful refactoring, and designing developer-friendly workflows.  
 - Committed to sound engineering practices and sustainable software processes.  
 
-## 💼 Work Experience
+<h2 align="center">💼 Work Experience</h2>
 
-💼 **Senior GNSS Embedded Software Engineer @ u-blox (Safety-Critical Products)**  
-*Athens, Greece — Oct 2022 to Dec 2025 (3 yrs 3 mos)*  
-💼 **Embedded Software Engineer @ Olympia Electronics**  
-*Thessaloniki, Greece — Aug 2021 to Oct 2022 (1 yr 3 mos)*  
-💼 **Embedded Software Engineer @ Industrial Systems Institute / Research Centre ATHENA**  
-*Patras, Greece — Apr 2019 to Jul 2021 (2 yrs 4 mos)*  
-💼 **System-on-Chip Design Engineer @ University of Patras**  
-*Patras, Greece — Apr 2019 to Jul 2021 (2 yrs 4 mos)*  
+- **Senior GNSS Embedded Software Engineer @ u-blox (Safety-Critical Products)**  
+- **Embedded Software Engineer @ Olympia Electronics**  
+- **Embedded Software Engineer @ Industrial Systems Institute / Research Centre ATHENA**  
+- **System-on-Chip Design Engineer @ University of Patras**  
 
-## 🎓 Education
+<h2 align="center">🎓 Education</h2>
 
-🎓 M.Sc. in Integrated Hardware and Software Systems: [University of Patras](https://www.ceid.upatras.gr/en/home/) (2017–2020)  
-🎓 Diploma (Integrated Bachelor and Master degree) in Electrical and Computer Engineering: [University of Patras](https://www.ece.upatras.gr/index.php/en/) (2012–2017)
+- M.Sc. in Integrated Hardware and Software Systems: [University of Patras](https://www.ceid.upatras.gr/en/home/) (2017–2020)  
+- Diploma (Integrated Bachelor and Master degree) in Electrical and Computer Engineering: [University of Patras](https://www.ece.upatras.gr/index.php/en/) (2012–2017)
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tools & Technologies 🛠️</h2></summary>
-  </ul>
-</div>
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <img src="https://skillicons.dev/icons?i=git,c,docker,rust,bash,github,gitlab,linux,cpp,md,postman,matlab,python,vscode&perline=9" />
 
-Additional Tools: TRACE32, QEMU, Static analysis, Fault injection scripts, Agile methodologies, Requirements elicitation  
+Additional Tools: TRACE32, QEMU, MathWorks Polyspace, Systemite SystemWeaver, Atlassian Jira  
 Also exploring: Blockchain smart contracts
 
-<!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
